@@ -1,0 +1,86 @@
+﻿@model Frontend.Models.ViewModels.BPKBEditViewModel
+
+@{
+    ViewData["Title"] = "Edit Transaction";
+}
+
+<div class="container mt-4">
+    <h2 class="mb-4">Edit Transaction</h2>
+
+    <form asp-action="Edit" method="post">
+        <div class="card">
+            <div class="card-body">
+                <div class="form-group">
+                    <label asp-for="TrBpkb.AgreementNumber" class="form-label"></label>
+                    <input asp-for="TrBpkb.AgreementNumber" class="form-control" readonly />
+                    <span asp-validation-for="TrBpkb.AgreementNumber" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.BpkbNo" class="form-label"></label>
+                    <input asp-for="TrBpkb.BpkbNo" class="form-control" />
+                    <span asp-validation-for="TrBpkb.BpkbNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.BranchId" class="form-label"></label>
+                    <input asp-for="TrBpkb.BranchId" class="form-control" />
+                    <span asp-validation-for="TrBpkb.BranchId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.BpkbDate" class="form-label"></label>
+                    <input asp-for="TrBpkb.BpkbDate" class="form-control" type="date" />
+                    <span asp-validation-for="TrBpkb.BpkbDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.FakturNo" class="form-label"></label>
+                    <input asp-for="TrBpkb.FakturNo" class="form-control" />
+                    <span asp-validation-for="TrBpkb.FakturNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.FakturDate" class="form-label"></label>
+                    <input asp-for="TrBpkb.FakturDate" class="form-control" type="date" />
+                    <span asp-validation-for="TrBpkb.FakturDate" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.LocationId" class="form-label"></label>
+                    <select asp-for="TrBpkb.LocationId" asp-items="@(new SelectList(Model.Locations, "LocationId", "LocationName"))" class="form-control">
+                        <option value="">Select Location</option>
+                    </select>
+                    <span asp-validation-for="TrBpkb.LocationId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.PoliceNo" class="form-label"></label>
+                    <input asp-for="TrBpkb.PoliceNo" class="form-control" />
+                    <span asp-validation-for="TrBpkb.PoliceNo" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="TrBpkb.BpkbDateIn" class="form-label"></label>
+                    <input asp-for="TrBpkb.BpkbDateIn" class="form-control" type="date" />
+                    <span asp-validation-for="TrBpkb.BpkbDateIn" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mt-4">
+                    <div class="row">
+                        <div class="col">
+                            <a href="@Url.Action("Index", "BPKB")" class="btn btn-secondary btn-lg">
+                                <i class="bi bi-arrow-left"></i> Back to List
+                            </a>
+                        </div>
+                        <div class="col text-end">
+                            <button type="submit" class="btn btn-primary btn-lg">
+                                <i class="bi bi-save"></i> Save Changes
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

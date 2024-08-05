@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\renal\\Downloads\\Frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\controllers\\bpkbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\views\\bpkb\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\bpkb\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\services\\bpkbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\services\\bpkbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\views\\bpkb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\views\\bpkb\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\models\\viewmodels\\bpkbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\viewmodels\\bpkbviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\models\\trbpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\models\\trbpkb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|c:\\users\\renal\\downloads\\frontend\\frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CF082BF-9D19-4004-8900-69D30FECB3D6}|Frontend\\Frontend.csproj|solutionrelative:frontend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BPKBService.cs",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Services\\BPKBService.cs",
+              "RelativeDocumentMoniker": "Frontend\\Services\\BPKBService.cs",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Services\\BPKBService.cs",
+              "RelativeToolTip": "Frontend\\Services\\BPKBService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T13:12:21.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Views\\BPKB\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\BPKB\\Index.cshtml",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Views\\BPKB\\Index.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\BPKB\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T14:04:00.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T10:25:49.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BPKBController.cs",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Controllers\\BPKBController.cs",
+              "RelativeDocumentMoniker": "Frontend\\Controllers\\BPKBController.cs",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Controllers\\BPKBController.cs",
+              "RelativeToolTip": "Frontend\\Controllers\\BPKBController.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAwwKkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:17:37.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Views\\BPKB\\Login.cshtml",
+              "RelativeDocumentMoniker": "Frontend\\Views\\BPKB\\Login.cshtml",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Views\\BPKB\\Login.cshtml",
+              "RelativeToolTip": "Frontend\\Views\\BPKB\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T14:40:30.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Program.cs",
+              "RelativeDocumentMoniker": "Frontend\\Program.cs",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Program.cs",
+              "RelativeToolTip": "Frontend\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwCgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:27:27.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BPKBViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Models\\ViewModels\\BPKBViewModel.cs",
+              "RelativeDocumentMoniker": "Frontend\\Models\\ViewModels\\BPKBViewModel.cs",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Models\\ViewModels\\BPKBViewModel.cs",
+              "RelativeToolTip": "Frontend\\Models\\ViewModels\\BPKBViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:05:03.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrBpkb.cs",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Models\\TrBpkb.cs",
+              "RelativeDocumentMoniker": "Frontend\\Models\\TrBpkb.cs",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\Models\\TrBpkb.cs",
+              "RelativeToolTip": "Frontend\\Models\\TrBpkb.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:09:21.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\appsettings.json",
+              "RelativeDocumentMoniker": "Frontend\\appsettings.json",
+              "ToolTip": "C:\\Users\\renal\\Downloads\\Frontend\\Frontend\\appsettings.json",
+              "RelativeToolTip": "Frontend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-05T10:17:04.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
